@@ -1,0 +1,1 @@
+"""Retrieval layer for Scout — embedding, indexing, and context assembly."""

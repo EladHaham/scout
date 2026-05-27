@@ -1,0 +1,1 @@
+export { QueryDetail } from "./DashboardComponents"
